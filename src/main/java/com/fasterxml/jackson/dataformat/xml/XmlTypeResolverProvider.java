@@ -7,7 +7,7 @@ import com.fasterxml.jackson.databind.jsontype.TypeResolverBuilder;
 import com.fasterxml.jackson.databind.jsontype.TypeResolverProvider;
 
 /**
- * @since 3.0 (replacement for earlier AnnotationIntrospector-based approach in 2.x)
+ * huangxuwen@since 3.0 (replacement for earlier AnnotationIntrospector-based approach in 2.x)
  */
 public class XmlTypeResolverProvider
     extends TypeResolverProvider
